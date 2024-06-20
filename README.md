@@ -6,6 +6,6 @@ https://github.com/WarpRomo/cloutiful-cheat-osu/assets/56988049/4d41fb9c-f3b4-44
 1. Download the files from the [release](https://github.com/WarpRomo/cloutiful-cheat-osu/releases/tag/windows) page
 2. Drag the folder within the .zip file onto your desktop
 3. Open the folder, and edit the config.txt files to your liking ![image](https://github.com/WarpRomo/cloutiful-cheat-osu/assets/56988049/d1bf1e40-001c-4de0-8aa1-f82415cf0615)
-4. When the `HACKED_KEY` is released, `KEY_TO_SEND` will be pressed for `PRESS_LENGTH` milliseconds
+4. When the `HACKED_KEY` is released, `KEY_TO_SEND` will be pressed for `PRESS_LENGTH` milliseconds. Make sure the HACKED_KEY is different from the KEY_TO_SEND. I recommend default settings.
 5. Run the `CloutifulCheat.exe` file
 6. Everything should work now.
